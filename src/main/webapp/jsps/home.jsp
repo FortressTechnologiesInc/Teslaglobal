@@ -5,14 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>LandmarkTechnologies- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/myfortresstechlogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Project.</h1>
+<h1 align="center">Welcome to Fortress Tesla Project.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over millionaires in IT.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, in a real time production Projects.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,23 +31,23 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="images/myfortresstechlogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Fortress Technology Inc. 
 		Toronto, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		myfortresstech@outlook.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:myfortresstech@outlook.com">Mail to Fortress Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> FortressTechnologies Inc. - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://myfortresstech.com/">Fortress Technologies</a> </small></p>
 
 </body>
 </html>
