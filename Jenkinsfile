@@ -41,7 +41,7 @@ pipeline{
 Please check build status.
 
 Thanks
-Landmark 
+Fortress 
 +1 437 215 2483''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'
     }
     success{
@@ -49,7 +49,7 @@ Landmark
 Good job build and deployment is successful.
 
 Thanks
-Landmark 
+Fortress 
 +1 437 215 2483''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'
     } 
     failure{
@@ -57,7 +57,7 @@ Landmark
 Build failed. Please resolve issues.
 
 Thanks
-Landmark 
+Fortress 
 +1 437 215 2483''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'
     }
   } 
