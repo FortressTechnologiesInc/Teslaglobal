@@ -3,14 +3,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>tesla_webapplications</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.2-SNAPSHOTS</version> 
 	
-	<name>maven-web-application</name>
+	<name>tesla-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>tesla Web Project for Java Project</description>
 
 	<organization>
 		<name>Fortress Technologies</name>
