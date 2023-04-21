@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>tesla_webapplications</artifactId>
+	<artifactId>tesla_prod</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.2-SNAPSHOTS</version> 
 	
-	<name>tesla-web-application</name>
+	<name>tesla_prod</name>
 
 	<description>tesla Web Project for Java Project</description>
 
@@ -96,19 +96,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Fortress Technologies Releases Nexus Repository</name>
-	      <url>http://192.168.0.5:8085/repository/teslapPReleases/</url>
+	      <url>http://192.168.0.5:8085/repository/tesla_prod_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Fortress Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.0.5:8085/repository/teslapPSnapshots/</url>
+	      <url>http://192.168.0.5:8085/repository/tesla_prod_snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Tesla_webApp_project</finalName>
+		<finalName>Tesla_prod</finalName>
 		
 		<plugins>
 			<plugin>
