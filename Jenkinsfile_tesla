@@ -1,5 +1,5 @@
 node{
-  def mavenHome = tool name: 'maven3.8.6'
+  def mavenHome = tool name: 'maven3.9.2'
   stage('1cloneCode'){
     git "https://github.com/LandmakTechnology/maven-web-application"
   }
@@ -12,7 +12,7 @@ node{
   }
   stage('4uploadArtifacts'){
     //sh "${mavenHome}/bin/mvn deploy"
-    //http://52.53.227.31:8191/landmark/repository/tesla-fe-snapshots/
+      http://192.168.1.211:8081/repository/tesla-fe-snapshots/
     //http://52.53.227.31:8191/landmark/repository/tesla-fe-releases/
     // vi pom.xml and added repository details   
     // vi setting.xml and add AUTHENTICATION details  
