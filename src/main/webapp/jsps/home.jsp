@@ -9,10 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to FORTRESS TESLA GLOBAL Project.</h1>
-<h1 align="center">We are developing and supporting quality  eV Software CAR and SUV   Solutions to millions of clients.
-	           We are raising over millionaires in IT.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, in a real time production Projects.</h1>
+<h1 align="center">Welcome to OpenIT software Solutions.</h1>
+<h1 align="center">We are developing and supporting quality  eV Softwares for  CAR and SUV   
+				Solutions to millions of clients.We are raising over millionaires in IT.
+		We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, 
+					in a real time production Projects.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,23 +32,23 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/myfortresstechlogo.png" alt="" width="150">
+		<img src="images/myfortresstechlogo.png" alt="" width="80">
 	</span>
 	<span style="font-weight: bold;">
-                Fortress Technology Inc. 
-		Toronto, Canada
+                OpenIT Software Solutions Inc. 
+		Toronto |Ontario|Canada
 		+1 437 215 2483,
-		myfortresstech@outlook.com
+		openITgs@outlook.com
 		<br>
-		<a href="mailto:myfortresstech@outlook.com">Mail to Fortress Technologies</a>
+		<a href="mailto:openITgs@outlook.com">Mail to OpenIT Software Solutions</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> FortressTechnologies Inc. - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://myfortresstech.com/">Fortress Technologies</a> </small></p>
+<p align=center> OpenIT Software Solutions Inc. - Consulting | Training | Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://OpenITgs.com/">OpenIT Software Solutions</a> </small></p>
 
 </body>
 </html>
