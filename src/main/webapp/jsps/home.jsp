@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Welcome to OpenIT software Solutions.</h1>
 <h1 align="center">We are developing and supporting quality  eV Softwares for  CAR and SUV   
-				Solutions to millions of clients.We are raising over millionaires in IT.
-		We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, 
+		  Solutions to millions of clients.We are raising over millionaires in IT.
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance, 
 					in a real time production Projects.</h1>
 <hr>
 <br>
@@ -32,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/myfortresstechlogo.png" alt="" width="80">
+		<img src="images/openITGS.jpeg" alt="" width="80">
 	</span>
 	<span style="font-weight: bold;">
                 OpenIT Software Solutions Inc. 
